@@ -1,6 +1,6 @@
-[index.html](https://github.com/user-attachments/files/25602895/index.html)HTML
 
-[Upl<!DOCTYPE html>
+[index.html](https://github.com/user-attachments/files/25602911/index.html)
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -420,4 +420,4 @@
     </footer>
 
 </body>
-</html>oading index.html…]()
+</html>
