@@ -7,5 +7,3 @@ Repositorio con contenido representativo de la evolución de nuestro proyecto de
 
 - [1.Needfinding](./1-Needfinding/README.md)
 - [2.Elevator Pitch](./2-Elevator-Pitch/README.md)
-- [3.HTML/CSS/JavaScript](./3-HTML-CSS-JavaScript/README.md)
-- [3](./html/index.html)
