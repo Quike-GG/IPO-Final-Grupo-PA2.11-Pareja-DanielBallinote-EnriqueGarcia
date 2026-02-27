@@ -5,5 +5,5 @@ Repositorio con contenido representativo de la evolución de nuestro proyecto de
 
 ## Navegación:
 
-- [📂 1.Needfinding](./1.Needfinding/README.md)
-- [📂 2.Elevator Pitch](./2.Elevator%20Pitch/README.md)
+- [📂 1.Needfinding](./1-Needfinding/README.md)
+- [📂 2.Elevator Pitch](./2-Elevator%20Pitch/README.md)
