@@ -10,3 +10,4 @@ Repositorio con contenido representativo de la evolución de nuestro proyecto de
 - [3.HTML/CSS/JavaScript](./3-HTML-CSS-JavaScript/README.md)
 - [4.Diseño Centrado en el Usuario](./4-Diseño-Centrado-en-el-Usuario/README.md)
 - [5.Iteracion 1](./5-Iteracion-1/README.md)
+- [6.Prototipado Papel y Digital](./6-Prototipado-Papel-Y-Digital/README.md)
