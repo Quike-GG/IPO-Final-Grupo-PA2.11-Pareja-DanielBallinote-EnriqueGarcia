@@ -11,3 +11,4 @@ Repositorio con contenido representativo de la evolución de nuestro proyecto de
 - [4.Diseño Centrado en el Usuario](./4-Diseño-Centrado-en-el-Usuario/README.md)
 - [5.Iteracion 1](./5-Iteracion-1/README.md)
 - [6.Prototipado Papel y Digital](./6-Prototipado-Papel-Y-Digital/README.md)
+- [7.Trabajo Final](./7-Trabajo-Final/README.md)
