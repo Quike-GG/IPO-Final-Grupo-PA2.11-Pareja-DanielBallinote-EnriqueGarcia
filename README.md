@@ -1,6 +1,8 @@
 # IPO-Final-Grupo-PA2-Pareja-Daniel-Ballinote-y-Enrique-García
 Repositorio con contenido representativo de la evolución de nuestro proyecto de IPO 25/26
 
+A pesar de ser el apartado 7, una recopilacion de todas las sesiones y trabajo realizado, es más completa y posee una presentación más cuidada y uniforme.
+
  # (KaiGo) - Menú Principal
 
 ## Navegación:
